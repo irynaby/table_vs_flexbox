@@ -1,0 +1,37 @@
+/* Table layout */
+.table-wrap {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+.table-cell {
+    display: table-cell;
+    height: 3rem;
+    vertical-align: middle;
+}
+
+/* FlexBox Layout */
+.flex-wrap {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.flex-cell {
+    display: flex;
+    height: 3rem;
+    align-items: center;
+}
+
+/* Common */
+.description {
+    background-color: lightyellow;
+    width: 80%;
+}
+.add {
+    background-color: lightgreen;
+    width: 10%;
+}
+.remove {
+    background-color: lightskyblue;
+    width: 10%;
+}
