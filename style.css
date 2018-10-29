@@ -1,4 +1,7 @@
 /* Table layout */
+.table-fixed {
+    table-layout: fixed;
+}
 .table-wrap {
     display: table;
     width: 100%;
