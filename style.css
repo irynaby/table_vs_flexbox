@@ -32,9 +32,9 @@
 }
 .add {
     background-color: lightgreen;
-    width: 10%;
+    width: 100px;
 }
 .remove {
     background-color: lightskyblue;
-    width: 10%;
+    width: 100px;
 }
