@@ -5,7 +5,6 @@
 .table-wrap {
     display: table;
     table-layout: fixed;
-    table-layout: fixed;
 }
 .table-cell {
     display: table-cell;
